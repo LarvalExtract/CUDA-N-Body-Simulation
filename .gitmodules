@@ -1,0 +1,9 @@
+[submodule "Dependencies/Hieroglyph-v3"]
+	path = Dependencies/Hieroglyph-v3
+	url = https://github.com/matt77hias/Hieroglyph-v3
+[submodule "Dependencies/imgui"]
+	path = Dependencies/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "Dependencies/DirectXTK"]
+	path = Dependencies/DirectXTK
+	url = https://github.com/microsoft/DirectXTK
